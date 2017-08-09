@@ -1,0 +1,28 @@
+#container {
+  background: #FFF;
+  height: 192px;
+  width: 192px;
+  margin: 30px auto;
+  box-shadow: 3px 3px 3px 3px #808080;
+  position: relative;
+}
+.square {
+  background-color: #FFF;
+  height: 10px;
+  width: 10px;
+  margin: 1px;
+  float: left;
+}
+#reset {
+  width: 80px;
+  height: 40px;
+  margin: auto;
+  display: block;
+  text-shadow: .5px .5px red;
+  border-radius: 10px;
+}
+
+#color {
+  margin: 100px auto;
+  display: block;
+}
